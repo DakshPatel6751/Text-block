@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+.box1{
+    color: black;
+    border-radius: 20px;
+    border: 2px solid black;
+    display: inline-block;
+    padding: 10px 20px;
+    
+}
+.box2{
+    color: black;
+    border-radius: 20px;
+    border: 2px solid black;
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: antiquewhite;
+
+    }
+    .box3{
+        color: black;
+        border-radius: 20px;
+        border: 2px solid black;
+        display: inline-block;
+        padding: 10px 20px;
+        background: linear-gradient(red,blue, green);
+        
+    }
+    .box4{
+        color: black;
+        border-radius: 20px;
+        border: 2px solid black;
+        display: inline-block;
+        padding: 10px 20px;
+        background-color: brown;
+        
+    }
+    .box2:hover
+    {
+        background-color: blue;
+    }
